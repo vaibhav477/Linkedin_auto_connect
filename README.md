@@ -3,7 +3,7 @@ a chrome extension that will automate the LinkedIn connections for you.
 
 ## How to start the project?
 
-1) Clone the repo by using `git clone https://github.com/shekhu28/linkedin-auto-connect.git`
+1) Clone the repo by using `git clone https://github.com/vaibhav477/linkedin-auto-connect.git`
 2) In the `master` branch do a `npm install`
 3) Build the project using `npm run build`
 4) `public` folder in the project dir will be available to run the extension.
